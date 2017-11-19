@@ -2,6 +2,7 @@
 
 # References
 
+* https://circuitdigest.com/microcontroller-projects/controlling-raspberry-pi-gpio-using-android-app-over-bluetooth
 * https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial
 * http://www.raspberry-projects.com/pi/programming-in-python/i2c-programming-in-python/using-the-i2c-interface-2
 * https://oscarliang.com/raspberry-pi-arduino-connected-i2c/
