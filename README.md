@@ -1,7 +1,12 @@
 # Mardan-Bot
 
+# Connect Folder with RPi
+
+* http://raspberrypituts.com/access-raspberry-pi-files-in-your-os-x-finder/
+
 # References
 
+* https://www.youtube.com/watch?v=Hb06pKGoH70
 * http://blog.mclemon.io/python-using-a-dualshock-4-with-pygame
 * https://circuitdigest.com/microcontroller-projects/controlling-raspberry-pi-gpio-using-android-app-over-bluetooth
 * https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial
